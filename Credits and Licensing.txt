@@ -1,11 +1,20 @@
 Credits and Licensing
 
-Tileset and Character Sprites
-Topdown (Shooter) Pack 
-by  Kenney Vleugels (Kenney.nl)
-License (Creative Commons Zero, CC0)
-
 Bullet Sprites
 Assets Free Laser Bullets Pack 2020
 by Wenrexa (https://wenrexa.itch.io/)
 License (Creative Commons Zero, CC0)
+
+Tileset and Character Sprites
+Topdown (Shooter) Pack 
+by  Kenney Vleugels (Kenney.nl)
+License: (CC0 1.0 Universal)
+
+Crosshairs
+Crosshair Pack
+by  Kenney Vleugels (Kenney.nl)
+License: (CC0 1.0 Universal)
+
+Top-down Tanks
+by  Kenney Vleugels (Kenney.nl)
+License: (CC0 1.0 Universal)
