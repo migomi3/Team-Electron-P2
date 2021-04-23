@@ -7,7 +7,6 @@
     {"id":{"name":"obj_target2","path":"objects/obj_target2/obj_target2.yy",},"order":4,},
     {"id":{"name":"obj_target3","path":"objects/obj_target3/obj_target3.yy",},"order":5,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
     {"id":{"name":"obj_spawner2","path":"objects/obj_spawner2/obj_spawner2.yy",},"order":6,},
     {"id":{"name":"obj_target1","path":"objects/obj_target1/obj_target1.yy",},"order":1,},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},"order":3,},
@@ -55,7 +54,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.560",
   },
   "resourceVersion": "1.4",
   "name": "Click'em",
