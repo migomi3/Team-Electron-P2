@@ -1,2 +1,10 @@
 sprite_offset = sprite_get_width(spr_ammo);
-lives = 3
+lives = 20
+enemies_killed = 0.0
+shots_landed = 0.0
+shots_fired = 0.0
+accuracy = 100.0
+array_time_to_kill = []
+array_total_value = 0.0
+average_time_to_kill = 0.0
+recalculate = false
