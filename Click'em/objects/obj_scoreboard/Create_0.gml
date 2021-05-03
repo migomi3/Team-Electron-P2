@@ -8,3 +8,4 @@ array_time_to_kill = []
 array_total_value = 0.0
 average_time_to_kill = 0.0
 recalculate = false
+last_kill_score = 0

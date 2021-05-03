@@ -14,10 +14,10 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":1050.0,"resourceVersion":"1.0","name":"inst_5EABCB3F","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":928.0,"y":1050.0,"resourceVersion":"1.0","name":"inst_5EABCB3F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_gun_control","path":"objects/obj_gun_control/obj_gun_control.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_2C03BDE1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_scoreboard","path":"objects/obj_scoreboard/obj_scoreboard.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":0.0,"resourceVersion":"1.0","name":"inst_5367FF8","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_gridSpawner","path":"objects/obj_gridSpawner/obj_gridSpawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":0.0,"resourceVersion":"1.0","name":"inst_7632A43E","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_timed_grid_spawner","path":"objects/obj_timed_grid_spawner/obj_timed_grid_spawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":0.0,"resourceVersion":"1.0","name":"inst_7632A43E","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":30,"SerialiseHeight":17,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -35,8 +35,8 @@
 470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,470,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,469,
-2147483648,155,0,128,2147483648,2147483648,128,2147483648,2147483648,155,2147483648,128,2147483648,128,128,128,128,2147483648,2147483648,2147483648,128,0,0,128,155,0,0,0,128,2147483648,
-128,2147483648,2147483648,155,2147483648,2147483648,155,2147483648,128,2147483648,2147483648,2147483648,2147483648,128,2147483648,2147483648,128,2147483648,2147483648,2147483648,155,2147483648,128,2147483648,2147483648,2147483648,128,2147483648,155,2147483648,
+2147483648,155,0,128,2147483648,2147483648,128,2147483648,2147483648,155,2147483648,16,128,128,128,128,128,2147483648,2147483648,2147483648,128,0,0,128,155,0,0,0,128,2147483648,
+128,2147483648,2147483648,155,2147483648,2147483648,155,2147483648,128,2147483648,2147483648,2147483648,128,16,2147483648,2147483648,128,2147483648,2147483648,2147483648,155,2147483648,128,2147483648,2147483648,2147483648,128,2147483648,155,2147483648,
 ],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Tiles_2","tags":[],"resourceType":"GMRTileLayer",},
     {"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":30,"SerialiseHeight":17,"TileSerialiseData":[
 1,2,1,1,1,1,3,1,1,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,1,2,2,2,2,3,
@@ -63,10 +63,10 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_5EABCB3F","path":"rooms/grid/grid.yy",},
-    {"name":"inst_2C03BDE1","path":"rooms/grid/grid.yy",},
-    {"name":"inst_5367FF8","path":"rooms/grid/grid.yy",},
-    {"name":"inst_7632A43E","path":"rooms/grid/grid.yy",},
+    {"name":"inst_5EABCB3F","path":"rooms/timed_grid/timed_grid.yy",},
+    {"name":"inst_2C03BDE1","path":"rooms/timed_grid/timed_grid.yy",},
+    {"name":"inst_5367FF8","path":"rooms/timed_grid/timed_grid.yy",},
+    {"name":"inst_7632A43E","path":"rooms/timed_grid/timed_grid.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -94,7 +94,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "grid",
+  "name": "timed_grid",
   "tags": [],
   "resourceType": "GMRoom",
 }
