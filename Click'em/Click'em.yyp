@@ -24,7 +24,10 @@
     {"id":{"name":"script_score_text","path":"scripts/script_score_text/script_score_text.yy",},"order":0,},
     {"id":{"name":"timed_grid","path":"rooms/timed_grid/timed_grid.yy",},"order":7,},
     {"id":{"name":"moving_enemies","path":"rooms/moving_enemies/moving_enemies.yy",},"order":6,},
+    {"id":{"name":"fnt_gameover","path":"fonts/fnt_gameover/fnt_gameover.yy",},"order":0,},
     {"id":{"name":"spr_ammo","path":"sprites/spr_ammo/spr_ammo.yy",},"order":4,},
+    {"id":{"name":"fnt_base","path":"fonts/fnt_base/fnt_base.yy",},"order":1,},
+    {"id":{"name":"fnt_gameoverSmall","path":"fonts/fnt_gameoverSmall/fnt_gameoverSmall.yy",},"order":2,},
     {"id":{"name":"testing_room","path":"rooms/testing_room/testing_room.yy",},"order":0,},
   ],
   "Options": [
