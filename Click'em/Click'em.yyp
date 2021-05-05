@@ -44,9 +44,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"testing_room","path":"rooms/testing_room/testing_room.yy",},},
     {"roomId":{"name":"timed_grid","path":"rooms/timed_grid/timed_grid.yy",},},
     {"roomId":{"name":"moving_enemies","path":"rooms/moving_enemies/moving_enemies.yy",},},
-    {"roomId":{"name":"testing_room","path":"rooms/testing_room/testing_room.yy",},},
     {"roomId":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
     {"roomId":{"name":"area_small","path":"rooms/area_small/area_small.yy",},},
     {"roomId":{"name":"area_medium","path":"rooms/area_medium/area_medium.yy",},},
