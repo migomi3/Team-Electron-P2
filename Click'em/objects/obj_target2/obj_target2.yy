@@ -32,6 +32,7 @@
   ],
   "overriddenProperties": [
     {"propertyId":{"name":"worth","path":"objects/obj_target1/obj_target1.yy",},"objectId":{"name":"obj_target1","path":"objects/obj_target1/obj_target1.yy",},"value":"15000.0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"attack_timer","path":"objects/obj_target1/obj_target1.yy",},"objectId":{"name":"obj_target1","path":"objects/obj_target1/obj_target1.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
