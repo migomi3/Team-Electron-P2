@@ -9,7 +9,11 @@ Team:
 
 Instructions:
     Practice your aim by clicking on as many targets as quickly as possible!
-    You can miss three times. Any more and you start over.
+    Fail to hit a target before it disappears though, and you lose a life.
+    Lose too many and its game over! You'll have to start the challenge over!
+    Don't forget to reload! (Right-click or R on keyboard)
 
 Cheat Codes:
-    Coming soon...
+    End round Early - Alt + E
+    5 Extra Lives - Alt + L
+    Destroy all Targets - Alt + K
