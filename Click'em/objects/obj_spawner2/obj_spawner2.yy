@@ -26,6 +26,8 @@
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"spawnInterval","path":"objects/obj_spawner1/obj_spawner1.yy",},"objectId":{"name":"obj_spawner1","path":"objects/obj_spawner1/obj_spawner1.yy",},"value":"300","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"spawnIntDecrease","path":"objects/obj_spawner1/obj_spawner1.yy",},"objectId":{"name":"obj_spawner1","path":"objects/obj_spawner1/obj_spawner1.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"startTime","path":"objects/obj_spawner1/obj_spawner1.yy",},"objectId":{"name":"obj_spawner1","path":"objects/obj_spawner1/obj_spawner1.yy",},"value":"500","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
