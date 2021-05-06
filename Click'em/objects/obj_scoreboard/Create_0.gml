@@ -12,3 +12,4 @@ last_kill_score = 0
 time_elapsed = current_time
 targetsMissed = 0
 gameOver = false
+score = 0

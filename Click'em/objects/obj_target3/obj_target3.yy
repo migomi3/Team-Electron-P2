@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_target1",
-    "path": "objects/obj_target1/obj_target1.yy",
+    "name": "obj_target2",
+    "path": "objects/obj_target2/obj_target2.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -23,7 +23,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"worth","path":"objects/obj_target1/obj_target1.yy",},"objectId":{"name":"obj_target1","path":"objects/obj_target1/obj_target1.yy",},"value":"25","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
