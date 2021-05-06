@@ -1,20 +1,49 @@
-Credits and Licensing
+Sound Credits 
 
-Bullet Sprites
-Assets Free Laser Bullets Pack 2020
-by Wenrexa (https://wenrexa.itch.io/)
-License (Creative Commons Zero, CC0)
+SFX
 
-Tileset and Character Sprites
-Topdown (Shooter) Pack 
-by  Kenney Vleugels (Kenney.nl)
-License: (CC0 1.0 Universal)
+Gun Shot - Gun shot sound_01
+https://freesound.org/people/GregsMedia/sounds/150137/
+
+Gun Reload - Glock19_reload
+https://freesound.org/people/Fr3yr/sounds/100804/
+
+Music 
+Background Music - Cuckoo & The Nightingale Duet
+https://freesound.org/people/Vonora/sounds/269570/
+
+
+Sprites
+
+All Tile set and environment Sprites
+https://www.kenney.nl/assets/topdown-shooter
+
+All Player & Enemy Sprites
+https://www.kenney.nl/assets/topdown-shooter
 
 Crosshairs
-Crosshair Pack
-by  Kenney Vleugels (Kenney.nl)
-License: (CC0 1.0 Universal)
+https://www.kenney.nl/assets/crosshair-pack 
 
-Top-down Tanks
-by  Kenney Vleugels (Kenney.nl)
-License: (CC0 1.0 Universal)
+
+Licensing
+
+SFX
+
+Following Sound Effects obtained from (https://freesound.org/):
+Gun shot sound_01
+Glock19_reload
+License: http://creativecommons.org/licenses/by/3.0/
+
+
+Music 
+Music : Cuckoo & The Nightingale Duet - https://freesound.org/ 
+License: http://creativecommons.org/licenses/by/3.0/ 
+
+Player/Enemy Sprites
+Tileset and Character Sprites by Kenney Vleugels (Kenney.nl) 
+License: (CC0 1.0 Universal) COPYRIGHT © 2010-2021 ALL RIGHTS RESERVED
+
+Crosshairs Sprites by  Kenney Vleugels (Kenney.nl)
+License: (CC0 1.0 Universal) COPYRIGHT © 2010-2021 ALL RIGHTS RESERVED
+
+Game Logo by Harshraj Thakor (2021)
